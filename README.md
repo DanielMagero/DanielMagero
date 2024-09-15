@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DanielMagero
-- 👀 I’m interested in data science, analytics, animationsa and a touch of cybersecurity.
-- 🌱 I’m currently learning python
+- 👀 Data Science, Gaming, Data Analytics, Cybersecurity 
 
 
 
