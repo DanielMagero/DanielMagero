@@ -19,8 +19,10 @@ Hi 👋 My name is Daniel Magero Mugulo
 
 <a href="http://www.github.com/DanielMagero"><img src="https://github-readme-stats.vercel.app/api?username=DanielMagero&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanielMagero's GitHub stats" /></a>
 
+
 <a href="https://github.com/DanielMagero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMagero&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![committers.top badge](https://user-badge.committers.top/uganda_public/USERNAME.svg)](https://user-badge.committers.top/uganda_public/USERNAME)
 
 <!---
 DanielMagero/DanielMagero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
