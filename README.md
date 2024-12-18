@@ -19,6 +19,8 @@ Hi 👋 My name is Daniel Magero Mugulo
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DanielMagero"><img src="https://github-readme-stats.vercel.app/api?username=DanielMagero&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DanielMagero's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmagero&show_icons=true&locale=en" alt="danielmagero" /></p>
+
 
 <a href="http://www.github.com/DanielMagero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielMagero&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
