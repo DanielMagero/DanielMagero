@@ -20,8 +20,9 @@ I am a passionate developer from Uganda focused on building scalable web applica
 ### 📊 GitHub Stats & Rankings
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMagero&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000" alt="Daniel's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMagero&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DanielMagero&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000" alt="Daniel's Stats" height="180" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielMagero&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
