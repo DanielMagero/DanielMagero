@@ -31,6 +31,7 @@ I am a passionate developer from Uganda focused on building scalable web applica
 
 **Current Ranking in Uganda:**
 [![Rank Badge](https://user-badge.committers.top/uganda/DanielMagero.svg)](https://user-badge.committers.top/uganda/DanielMagero)
+[![committers.top badge](https://user-badge.committers.top/uganda_public/DanielMagero.svg)](https://user-badge.committers.top/uganda_public/DanielMagero)
 
 ---
 
