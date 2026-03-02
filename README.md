@@ -35,7 +35,7 @@ I am a passionate developer from Uganda focused on building scalable web applica
 
 ### 📫 Connect with Me
 * 🐙 **GitHub:** [DanielMagero](https://github.com/DanielMagero)
-* 💼 **LinkedIn:** [www.linkedin.com/in/daniel-magero-mugulo-bab7721b8]
+* 💼 **LinkedIn:** [Daniel Magero Mugulo](www.linkedin.com/in/daniel-magero-mugulo-bab7721b8)
 
 ---
 *“Turning data into insights and ideas into reality.”*
